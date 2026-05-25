@@ -1,5 +1,3 @@
-# this is the policy network for agent 
-
 import torch
 import torch.nn as nn
 

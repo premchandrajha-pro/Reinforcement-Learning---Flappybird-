@@ -1,6 +1,6 @@
 import flappy_bird_gymnasium
 import gymnasium as gym
-from DQN import DQN
+from dqn import DQN
 from experience_replay import ReplayMemory 
 import itertools
 import yaml
